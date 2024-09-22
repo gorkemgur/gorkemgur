@@ -1,13 +1,32 @@
-### Hi there 👋
+## 📱 iOS Developer | UIKit & SwiftUI
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gorkemgur)](https://git.io/streak-stats)
+I've been working in iOS development for 4 years. I'm passionate about creating user-friendly, performant, and innovative applications using UIKit and SwiftUI.
 
-<!--
-**gorkemgur/gorkemgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 My Tech Stack
 
-Here are some ideas to get you started:
+- Swift
+- UIKit
+- SwiftUI
+- Xcode
+- CoreData
+- RESTful APIs
+- Git & GitHub
 
-- 🔭 I’m currently working on Shopiroller
-- 💬 Ask me about Swift/Kotlin
-- 📫 How to reach me: gorkembusiness@hotmail.com
--->
+### 📈 My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gorkemgur&show_icons=true&theme=radical)
+
+### 🎵 What I'm Listening To
+[![YouTube Video](https://img.youtube.com/vi/or4aXlkf_ok/0.jpg)](https://www.youtube.com/watch?v=or4aXlkf_ok)
+### 📫 Get in Touch
+
+- LinkedIn: [Görkem Gür](https://www.linkedin.com/in/gorkemgur/)
+- Twitter: [@buckybuckk](https://twitter.com/buckybuckk)
+- Email: gorkem.gur@icloud.com
+
+### 💡 A Quote
+
+> "Every new project is a new opportunity to learn."
+
+
+
