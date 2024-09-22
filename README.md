@@ -9,8 +9,19 @@ I've been working in iOS development for 4 years. I'm passionate about creating 
 - SwiftUI
 - Xcode
 - CoreData
-- RESTful APIs
-- Git & GitHub
+
+### 🔨 Architecture Knowledge
+
+- VIPER
+- MVVM
+- MVVM-C
+
+### 📚 Favorite Third-Party Libraries
+
+* [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - Powerful image downloading and caching
+* [SnapKit](https://github.com/SnapKit/SnapKit) - DSL to make Auto Layout easy
+* [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions
 
 ### 📈 My GitHub Stats
 
