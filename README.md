@@ -12,6 +12,7 @@ I've been working in iOS development for 4 years. I'm passionate about creating 
 - VIPER
 - MVVM
 - MVVM-C
+- VIP
 ### 📚 Favorite Third-Party Libraries
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - Powerful image downloading and caching
@@ -33,8 +34,7 @@ I've been working in iOS development for 4 years. I'm passionate about creating 
 </table>
 
 ### 📫 Get in Touch
-- LinkedIn: [Görkem Gür](https://www.linkedin.com/in/gorkemgur/)
-- Twitter: [@buckybuckk](https://twitter.com/buckybuckk)
-- Email: gorkem.gur@icloud.com
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorkemgur/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/buckybuckk)
 ### 💡 A Quote
 > "Every new project is a new opportunity to learn."
