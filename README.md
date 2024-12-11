@@ -8,6 +8,7 @@ I've been working in iOS development for 4 years. I'm passionate about creating 
 - SwiftUI
 - Xcode
 - CoreData
+- Realm
 ### 🔨 Architecture Knowledge
 - VIPER
 - MVVM
